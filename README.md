@@ -1,2 +1,2 @@
-# Abito
-Glo Academy
+# Abito - сайт объявлений
+Учебный проэкт Glo Academy
